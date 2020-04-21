@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056054466602",
+    "firebase_url": "https://marsplay-501b9.firebaseio.com",
+    "project_id": "marsplay-501b9",
+    "storage_bucket": "marsplay-501b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056054466602:android:44c76a596301438d080b53",
+        "android_client_info": {
+          "package_name": "com.example.marsplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056054466602-5j2g82jpn4feu4er0hsd18r6ed3r6qmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marsplay",
+            "certificate_hash": "9a1237e946e2f6031dddab586fa5b98038cf433d"
+          }
+        },
+        {
+          "client_id": "1056054466602-9jo8uj7msf2oli8j2nustgjj2e5tr1f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2sIXiUJ7q2YZxpy6fGzCG-u2H464f3sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056054466602-9jo8uj7msf2oli8j2nustgjj2e5tr1f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
